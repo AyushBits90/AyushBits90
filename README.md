@@ -7,7 +7,8 @@ An enthusiastic developer focused on building efficient software, managing datab
 ### 🌐 Connect with Me
 Feel free to connect or reach out to me for collaborations:
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/-ayushtripathi)
+
 
 ---
 
